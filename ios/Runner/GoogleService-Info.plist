@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>696220455365-21fagrvjhbvb0mvj7c3p51pf1imon29v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696220455365-21fagrvjhbvb0mvj7c3p51pf1imon29v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcoYABWRaDJq9wnFejc-EArEFm7HA04cg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696220455365</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.educationapp</string>
+	<key>PROJECT_ID</key>
+	<string>educationapp-4362e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>educationapp-4362e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696220455365:ios:bccbdf97d989fe8a</string>
+	<key>DATABASE_URL</key>
+	<string>https://educationapp-4362e.firebaseio.com</string>
+</dict>
+</plist>
